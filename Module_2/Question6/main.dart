@@ -24,8 +24,8 @@ class MyApp extends StatelessWidget {
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(15),
                   ),
-                  labelText: 'numner',
-                  hintText: "plese enter number"),
+                  labelText: 'number',
+                  hintText: "Enter number"),
               keyboardType: TextInputType.number,
             ),
           ),
