@@ -1,0 +1,16 @@
+-------------------Career Guideline-------------------
+The project aims to cater to various career options, explore possibilities
+beyond conventional streams like science and humanities. It will enlist a
+variety of career options one can go for after higher secondary as well
+as graduation like unconventional choices such as SEBI, Economics, etc,
+etc. it will make people aware about the opportunities that exist in
+varied fields in India also It will enlist colleges one can go for in
+respected streams with their admission procedure ,future scops and
+opportunities in short it is one-stop solution for students to become
+aware of plenty of career options, also colleges, universities which
+provide admissions in various streams in one place which is generally
+not the case as people tend to go for conventional options as they are
+not aware of existing possibilities after higher secondary/graduation
+limiting their potential. It will consist of Admin, Q&A, student,
+contributor modules and also psychometric test to test one’s subject
+inclination
