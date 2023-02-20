@@ -1,0 +1,263 @@
+{
+    "items": [
+        {
+            "code": "GJ01",
+            "name": "RTO, Ahmedabad",
+            "address": "RTO Office Subhash Bridge,  Sabarmati Ahmedabad-380027,",
+            "url": "https://cot.gujarat.gov.in/rto-ahmedabad.htm",
+            "phone": "079-27559696 /079-27559697"
+        },
+        {
+            "code": "GJ02",
+            "name": "RTO, Mehsana",
+            "address": "RTO Office Near Khari Nadi, Palavasna highway. Mehsana-384002",
+            "url": "https://cot.gujarat.gov.in/rto-mahesana.htm",
+            "phone": "02762-225078"
+        },
+        {
+            "code": "GJ03",
+            "name": "RTO, Rajkot",
+            "address": "RTO Office, Near Market yard, Rajkot - 360001",
+            "url": "https://cot.gujarat.gov.in/rto-rajkot.htm",
+            "phone": "0281 2703366"
+        },
+        {
+            "code": "GJ04",
+            "name": "RTO, Bhavnagar",
+            "address": " RTO Office, Dhanechi Vadla, Bhavnagar-364003",
+            "url": "https://cot.gujarat.gov.in/rto-bhavnagar.htm",
+            "phone": "0278 2424004"
+        },
+        {
+            "code": "GJ05",
+            "name": "RTO, Surat",
+            "address": "RTO Office, Ring Road, Nanpura, Surat-385001.",
+            "url": "https://cot.gujarat.gov.in/rto-surat.htm",
+            "phone": "0261 2977191"
+        },
+        {
+            "code": "GJ06",
+            "name": "RTO, Vadodra",
+            "address": "RTO Office, Nr.Golden Chokdi NH-8, Darjipura,Vadodra-390006",
+            "url": "https://cot.gujarat.gov.in/rto-vadodara.htm",
+            "phone": "0265-2540016"
+        },
+        {
+            "code": "GJ07",
+            "name": "RTO, Nadiad",
+            "address": "RTO Office, Opposite Gov. Circuit house, Mile Road,Nadiad Kheda-387001",
+            "url": "https://cot.gujarat.gov.in/rto-nadiad.htm",
+            "phone": "0268 2550213"
+        },
+        {
+            "code": "GJ08",
+            "name": "RTO, Palanpur",
+            "address": "RTO Office, Ambaji Road,Palanpur (Banaskatha)-385001.",
+            "url": "https://cot.gujarat.gov.in/rto-palanpur.htm",
+            "phone": "2742-262235"
+        },
+        {
+            "code": "GJ09",
+            "name": "RTO, Himatnagar",
+            "address": "RTO Office, Savghadh vijapur bypass Road. Himatnagar Sabarkatha",
+            "url": "https://cot.gujarat.gov.in/rto-himmatnagar.htm",
+            "phone": "02772 223797"
+        },
+        {
+            "code": "GJ10",
+            "name": "RTO, Jamnagar",
+            "address": "RTO Office, Lal Bangla Compound, Jamnagar-388005",
+            "url": "https://cot.gujarat.gov.in/rto-jamnagar.htm",
+            "phone": "0288 2672100"
+        },
+        {
+            "code": "GJ11",
+            "name": "RTO, Junagadh",
+            "address": "RTO Office, B/H-Dr Shubhash Academy,Junagadh-362001.",
+            "url": "https://cot.gujarat.gov.in/rto-junagadh.htm",
+            "phone": "0285 2610691"
+        },
+        {
+            "code": "GJ12",
+            "name": "RTO, Kutch-Bhuj",
+            "address": "RTO Office, Near Military Garison, Madhaper Road, Bhuj-370000",
+            "url": "https://cot.gujarat.gov.in/rto-kucth bhuj.htm",
+            "phone": "02832 221950"
+        },
+        {
+            "code": "GJ13",
+            "name": "ARTO, S'nagar",
+            "address": "ARTO Office, Multistore Building, Block-Ground floor,Kehrali Road, Surendranagar-363001.",
+            "url": "https://cot.gujarat.gov.in/arto-surendrangar.htm",
+            "phone": "02752 285634"
+        },
+        {
+            "code": "GJ14",
+            "name": "ARTO, Amreli",
+            "address": "ARTO Office, Second floor, M.S.Building Rajmahel Compound Amreli-365001",
+            "url": "https://cot.gujarat.gov.in/arto-amreli.htm",
+            "phone": "02792 223313"
+        },
+        {
+            "code": "GJ15",
+            "name": "RTO, Valsad",
+            "address": "RTO Office, Atakpardi, Dharanpur Road,Valsad-269001.",
+            "url": "https://cot.gujarat.gov.in/rto-valsad.htm",
+            "phone": "02632 226622"
+        },
+        {
+            "code": "GJ16",
+            "name": "ARTO, Bharuch",
+            "address": "ARTO Office, Nandevan Chockdi, Bharuch-392001",
+            "url": "https://cot.gujarat.gov.in/arto-bharuch.htm",
+            "phone": "02642 233102"
+        },
+        {
+            "code": "GJ17",
+            "name": "RTO, Godhra",
+            "address": "ARTO Office, Near Commerce College,Godhra-389001",
+            "url": "https://cot.gujarat.gov.in/rto-godhara.htm",
+            "phone": "02672 242724"
+        },
+        {
+            "code": "GJ18",
+            "name": "ARTO, G'nagar",
+            "address": "ARTO Office, Sec-3A, Near 60 Circle, Gandhinagar",
+            "url": "https://cot.gujarat.gov.in/arto-gandhinagar.htm",
+            "phone": "079 23240954,\n23240951"
+        },
+        {
+            "code": "GJ19",
+            "name": "ARTO, Bardoli",
+            "address": "ARTO Office, Opposite Power House Octroy Naka,Bardoli-344601. Dis:Surat",
+            "url": "https://cot.gujarat.gov.in/arto-bardoli.htm",
+            "phone": "02622 223457"
+        },
+        {
+            "code": "GJ20",
+            "name": "ARTO, Dahod",
+            "address": "ARTO Office, Dharbada Chookdi, Highway bypass Dahod-389051.",
+            "url": "https://cot.gujarat.gov.in/arto-dahod.htm",
+            "phone": "02773 243200"
+        },
+        {
+            "code": "GJ21",
+            "name": "ARTO, Navsari",
+            "address": "ARTO Office, Italva, Navsari-396445",
+            "url": "https://cot.gujarat.gov.in/arto-navsari.htm",
+            "phone": "02637 265999"
+        },
+        {
+            "code": "GJ22",
+            "name": "ARTO, Rajpipla",
+            "address": "ARTO Office, Sevasadan Office, Collector Building, R No.-13/14, DIS: Narmada 399145.",
+            "url": "https://cot.gujarat.gov.in/arto-rajpipla.htm",
+            "phone": "9099089908"
+        },
+        {
+            "code": "GJ23",
+            "name": "ARTO, Anand",
+            "address": "ARTO Office, Sevasadan Ground, D.S.P. Office, Borsad Chokdi, Anand-388001",
+            "url": "https://cot.gujarat.gov.in/arto-anand.htm",
+            "phone": "02692 264800"
+        },
+        {
+            "code": "GJ24",
+            "name": "ARTO, Patan",
+            "address": "ARTO Office, GIDC Astet Building, No-3 Near Navjivan Hotel, Sidhpur Cross Road, Patan-384265",
+            "url": "https://cot.gujarat.gov.in/arto-patan.htm",
+            "phone": "02766 223100"
+        },
+        {
+            "code": "GJ25",
+            "name": "ARTO, Porbandar",
+            "address": "ARTO Office, Opposite D.S. P. Office, New Kuvara, Vadia Road, Porbandar-360575.",
+            "url": "https://cot.gujarat.gov.in/arto-porbandar.htm",
+            "phone": "7600733261"
+        },
+        {
+            "code": "GJ26",
+            "name": "ARTO, Vyara",
+            "address": "ARTO Office, Japanish Farm, Panvadi,Bhenskatri Road, Vyara",
+            "url": "https://cot.gujarat.gov.in/arto-vyara.htm",
+            "phone": "6352100074"
+        },
+        {
+            "code": "GJ27",
+            "name": "ARTO, Ahmedabad East",
+            "address": "ARTO Office, Ahmedabad East, Mahdevnagar Tekra, Vastral, Ahmedabad",
+            "url": "https://cot.gujarat.gov.in/arto-east-ahmedabad.htm",
+            "phone": "079 22870068"
+        },
+        {
+            "code": "GJ30",
+            "name": "ARTO, Aahwa",
+            "address": "ARTO Office, Aahwa, District: Surat",
+            "url": "https://cot.gujarat.gov.in/arto-dang-aahwa.htm",
+            "phone": "02631 246888"
+        },
+        {
+            "code": "GJ31",
+            "name": "ARTO, Arvalli",
+            "address": "ARTO Office, Shah Mukundadasa Vithaldas Public Pharmacy College, Shamiaji Modasa highway, Modasa",
+            "url": "https://cot.gujarat.gov.in/arto-arvalli.htm",
+            "phone": "9426540579"
+        },
+        {
+            "code": "GJ32",
+            "name": "ARTO, Veraval",
+            "address": "ARTO Office, R&B building, Veraval",
+            "url": "https://cot.gujarat.gov.in/arto-girsomnath.htm",
+            "phone": "02876 240690"
+        },
+        {
+            "code": "GJ33",
+            "name": "ARTO, Botad",
+            "address": "ARTO Office, Government colony. D Colony Old Province Office Botad police in front of the parade ground Pura Road, Botad",
+            "url": "https://cot.gujarat.gov.in/arto-botad.htm",
+            "phone": "8320422627"
+        },
+        {
+            "code": "GJ34",
+            "name": "ARTO, Chhota Udepur",
+            "address": "ARTO Office, Fatehpura Road, Choota Udepur,Dist: Chhota Udepur 391165",
+            "url": "https://cot.gujarat.gov.in/arto-chhotaudepur.htm",
+            "phone": "9879181836"
+        },
+        {
+            "code": "GJ35",
+            "name": "ARTO, Lunawada",
+            "address": "ARTO Office Bhadar Canal Colony, Opp: Lunawada Bus Stand. Lunawada, Dist Mahisagar 389230 ",
+            "url": "https://cot.gujarat.gov.in/arto-mahisagar.htm",
+            "phone": "02674 256004"
+        },
+        {
+            "code": "GJ36",
+            "name": "ARTO, Morbi",
+            "address": "ARTO Office, Old Toll Naka Building, Opp: Uma Resort, Morbi Maliya Bypass, Morbi-363642",
+            "url": "https://cot.gujarat.gov.in/arto-morbi.htm",
+            "phone": "02822 297410"
+        },
+        {
+            "code": "GJ37",
+            "name": "ARTO, Khambhaliya",
+            "address": "ARTO Office, Opp: New ITI Jamnagar Highway, Khambhaliya-361305",
+            "url": "https://cot.gujarat.gov.in/arto-dbdwarka.htm",
+            "phone": "02833 233300"
+        },
+        {
+            "code": "GJ38",
+            "name": "ARTO, Bavla",
+            "address": "ARTO Office, Amruthaug, Nr. Swaminarayan Gate, Bavla, Dist: Ahmedabad",
+            "url": "https://cot.gujarat.gov.in/arto-bavla.htm",
+            "phone": "02714 232411"
+        },
+        {
+            "code": "-",
+            "name": "IMV Office\nGandhidham",
+            "address": "Maghapar borichi, Angar-Kutch, Bhuj",
+            "url": "-",
+            "phone": "9924997702"
+        }
+    ]
+}
